@@ -133,7 +133,7 @@ export const ProjectTable: React.FC<ProjectTableProps> = ({
           <div>
             <div className="flex items-center gap-2">
               <h2 className="text-lg sm:text-xl font-extrabold text-zinc-900 tracking-tight">
-                Jadwal produksi
+                Jadwal Produksi
               </h2>
               <span className="bg-amber-100 text-amber-800 text-[11px] font-bold px-2 py-0.5 rounded-full border border-amber-300">
                 JVS Karya Indonesia
