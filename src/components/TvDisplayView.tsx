@@ -176,7 +176,7 @@ export const TvDisplayView: React.FC<TvDisplayViewProps> = ({
               </span>
               <span className="text-[11px] text-amber-400 font-semibold flex items-center gap-1.5">
                 <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
-                LINE PRODUKSI A (LIVE TV)
+                JVS KARYA INDONESIA
               </span>
             </div>
           </div>
@@ -295,7 +295,7 @@ export const TvDisplayView: React.FC<TvDisplayViewProps> = ({
           {/* Card 4: Selesai & Progress Bar */}
           <div className="bg-zinc-900/80 border border-zinc-800/80 p-3 rounded-xl flex flex-col justify-between">
             <div className="flex items-center justify-between">
-              <p className="text-[11px] font-bold uppercase tracking-wider text-emerald-400">Progres Selesai</p>
+              <p className="text-[11px] font-bold uppercase tracking-wider text-emerald-400">Progress Selesai</p>
               <span className="text-xs font-mono-num font-bold text-emerald-400">{completionRate}%</span>
             </div>
             <div className="flex items-baseline gap-1.5 mt-1">
