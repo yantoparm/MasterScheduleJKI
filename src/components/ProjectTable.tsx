@@ -136,7 +136,7 @@ export const ProjectTable: React.FC<ProjectTableProps> = ({
                 Jadwal produksi
               </h2>
               <span className="bg-amber-100 text-amber-800 text-[11px] font-bold px-2 py-0.5 rounded-full border border-amber-300">
-                Lantai Produksi
+                JVS Karya Indonesia
               </span>
             </div>
             <p className="text-xs text-zinc-500 mt-1 font-medium">
