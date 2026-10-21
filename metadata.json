@@ -1,0 +1,6 @@
+{
+  "name": "Master Production Schedule - JVS Labz",
+  "description": "Sistem Master Production Schedule dan Tampilan Layar TV Produksi untuk JVS Labz dengan pemantauan alur kerja Filling, Labeling, Cukai, dan Finishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
