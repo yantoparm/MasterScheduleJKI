@@ -295,7 +295,7 @@ export default function App() {
 
       {/* Footer matching prototype */}
       <footer className="text-center py-6 text-xs text-zinc-500 border-t border-zinc-200 bg-white mt-12">
-        <p className="font-medium">&copy; 2026 JVS Group &ndash; </p>
+        <p className="font-medium">&copy; 2026 JVS Group</p>
         <p className="text-[11px] text-zinc-400 mt-0.5">
           Master Production Schedule &middot; JVS Karya Indonesia
         </p>
